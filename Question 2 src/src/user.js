@@ -6,7 +6,7 @@ const dbinfo={
 host:"localhost",
 user:"root",
 password="cdac",
-database="javascript",
+database="project1",
 };
 
 const selectAllMsg = async () => {
